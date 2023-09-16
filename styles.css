@@ -1,6 +1,9 @@
 
 /* Your CSS Code here. */
 .body1{
+	margin:0px;
+	padding:5px;
+	height:300px;
 	border:1px;
 	background-color:#f6f9fb;
 }
